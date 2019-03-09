@@ -11,7 +11,7 @@ describe('The Question List', () => {
         expect(2+2).toEqual(4)
     })
 
-    it.skip ('Should be the meaning of life', () => {
-        expect(2+2).toEqual(5)
-    })
+    // it.skip ('Should be the meaning of life', () => {
+    //     expect(2+2).toEqual(5)
+    // })
 })
